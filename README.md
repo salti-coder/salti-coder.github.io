@@ -1,2 +1,2 @@
-# salta makenova
+# salti makenova
 Мой первый сайт
